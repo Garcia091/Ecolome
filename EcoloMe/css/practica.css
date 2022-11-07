@@ -1,0 +1,39 @@
+button {
+	width: 60%;
+	height: 40px;
+	margin: 10px auto;
+	justify-content: center;
+	display: block;
+	color: #fff;
+	background: #7FB77E;;
+	font-size: 1em;
+	font-weight: bold;
+	margin-top: 20px;
+	outline: none;
+	border: none;
+	border-radius: 5px;
+	transition: .2s ease-in;
+	cursor: pointer;
+	margin-bottom: 50px;
+}
+
+button:hover {
+	background: #B1D7B4;
+}
+
+H3 {
+    text-align: center;
+    font-size: 20px;
+	font-family: 'Poppins', sans-serif;
+}
+
+p{
+    font-size: 15px;
+	font-family: 'Poppins', sans-serif;
+}
+
+.video{
+    display: flex;
+    flex-direction: column;
+	font-family: 'Poppins', sans-serif;
+}
